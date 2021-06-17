@@ -1,0 +1,2 @@
+# Make all files "binary" so line endings will not change
+* -text
