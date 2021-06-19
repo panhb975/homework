@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1rSpxBjQ9qQ7ypPJNvUOxy5akO4D5ypoG9wjkgqdUP8843lcc1loYz2EPtvoXH2hbxzdzsKsC/GouOcr+OIRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panh\\source\\repos\\homework\\homework\\homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
