@@ -98,32 +98,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\panh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\panh\\source\\repos\\homework\\homework\\homework.csproj",
+      "projectUniqueName": "D:\\gitcodes\\github\\homework\\homework\\homework.csproj",
       "projectName": "homework",
-      "projectPath": "C:\\Users\\panh\\source\\repos\\homework\\homework\\homework.csproj",
-      "packagesPath": "C:\\Users\\panh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\panh\\source\\repos\\homework\\homework\\obj\\",
+      "projectPath": "D:\\gitcodes\\github\\homework\\homework\\homework.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\gitcodes\\github\\homework\\homework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\panh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "\\\\10.175.8.193\\NuGet": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
